@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/Обучение GB/Введение в контроль версий/Семинар3/001_Hello console/bin/Debug/net7.0/001_Hello console
+/Users/macbookpro/Desktop/Обучение GB/Введение в контроль версий/Семинар3/001_Hello console/bin/Debug/net7.0/001_Hello console.deps.json
+/Users/macbookpro/Desktop/Обучение GB/Введение в контроль версий/Семинар3/001_Hello console/bin/Debug/net7.0/001_Hello console.runtimeconfig.json
+/Users/macbookpro/Desktop/Обучение GB/Введение в контроль версий/Семинар3/001_Hello console/bin/Debug/net7.0/001_Hello console.dll
+/Users/macbookpro/Desktop/Обучение GB/Введение в контроль версий/Семинар3/001_Hello console/bin/Debug/net7.0/001_Hello console.pdb
+/Users/macbookpro/Desktop/Обучение GB/Введение в контроль версий/Семинар3/001_Hello console/obj/Debug/net7.0/001_Hello console.csproj.AssemblyReference.cache
+/Users/macbookpro/Desktop/Обучение GB/Введение в контроль версий/Семинар3/001_Hello console/obj/Debug/net7.0/001_Hello console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/Обучение GB/Введение в контроль версий/Семинар3/001_Hello console/obj/Debug/net7.0/001_Hello console.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/Обучение GB/Введение в контроль версий/Семинар3/001_Hello console/obj/Debug/net7.0/001_Hello console.AssemblyInfo.cs
+/Users/macbookpro/Desktop/Обучение GB/Введение в контроль версий/Семинар3/001_Hello console/obj/Debug/net7.0/001_Hello console.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/Обучение GB/Введение в контроль версий/Семинар3/001_Hello console/obj/Debug/net7.0/001_Hello console.dll
+/Users/macbookpro/Desktop/Обучение GB/Введение в контроль версий/Семинар3/001_Hello console/obj/Debug/net7.0/refint/001_Hello console.dll
+/Users/macbookpro/Desktop/Обучение GB/Введение в контроль версий/Семинар3/001_Hello console/obj/Debug/net7.0/001_Hello console.pdb
+/Users/macbookpro/Desktop/Обучение GB/Введение в контроль версий/Семинар3/001_Hello console/obj/Debug/net7.0/001_Hello console.genruntimeconfig.cache
+/Users/macbookpro/Desktop/Обучение GB/Введение в контроль версий/Семинар3/001_Hello console/obj/Debug/net7.0/ref/001_Hello console.dll
